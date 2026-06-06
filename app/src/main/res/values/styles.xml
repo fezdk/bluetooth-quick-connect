@@ -1,0 +1,8 @@
+<resources>
+    <string name="accessibility_service_description">Maps the remote color buttons to selected paired Bluetooth devices.</string>
+
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#101010</item>
+        <item name="android:colorAccent">#9ecbff</item>
+    </style>
+</resources>
